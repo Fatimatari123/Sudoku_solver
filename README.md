@@ -19,10 +19,4 @@ and then displays the completed grid neatly formatted in the console.
 3. It then recursively tries numbers (1–9) in each empty cell ("0" means empty).  
 4. When a valid configuration is found, it continues until the puzzle is fully solved.
 
----
-
-## 🚀 How to Run
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/tariqfatima438@gmail.com/Sudoku-Solver.git
 
